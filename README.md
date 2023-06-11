@@ -5,7 +5,8 @@
       
 Статьи:     
 1. [KDM3A and KMD3B catalyze the demethylation of transcriptionally repressive mono- and di-methylated histone H3 lysine 9 (H3K9me1/me2) in vitro and in vivo with a preference for dimethylated residues, thereby mediating transcriptional activation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7280979/)      
-2. [Deregulation of histone demethylase KDM3a, an important regulator for H3K9 methylation, is correlated with obesity and abnormal metabolism in rodent models. ](https://pubmed.ncbi.nlm.nih.gov/28135625/)       
+2. [Deregulation of histone demethylase KDM3a, an important regulator for H3K9 methylation, is correlated with obesity and abnormal metabolism in rodent models. ](https://pubmed.ncbi.nlm.nih.gov/28135625/)    
+![image](src/screenshots/genome_browser.png)     
 
 ## Выравнивание гистонов
 |Название | Скрин | Вывод |
